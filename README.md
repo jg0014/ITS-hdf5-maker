@@ -4,11 +4,11 @@ This code encode ITS_v2 dehazing dataset to a hdf5 file
 
 # origional data set prepar
 
-Down load ITS_v2/hazy, ITS_v2/trans and ITS/_v2/clear into ./ITS_v2
+Down load ITS_v2/hazy, ITS_v2/trans and ITS_v2/clear into ./ITS_v2
 
 # usage
 
-After prepared ITS_v2 dataset, run Make_5.m by matlab
+After prepared ITS_v2 dataset, run Make_h5.m by matlab
 
 # data augment
 
